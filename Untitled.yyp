@@ -1,5 +1,9 @@
 {
   "resources": [
+    {"id":{"name":"obj_Object1","path":"objects/obj_Object1/obj_Object1.yy",},"order":1,},
+    {"id":{"name":"spr_Sprite0","path":"sprites/spr_Sprite0/spr_Sprite0.yy",},"order":0,},
+    {"id":{"name":"spr_Sprite1","path":"sprites/spr_Sprite1/spr_Sprite1.yy",},"order":1,},
+    {"id":{"name":"obj_Object0","path":"objects/obj_Object0/obj_Object0.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
